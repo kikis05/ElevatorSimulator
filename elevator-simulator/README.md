@@ -1,5 +1,7 @@
 Code Written by Kirthi Shankar to simulate an elevator.
 
+Github Repository: https://github.com/kikis05/ElevatorSimulator
+
 When the app is run from the main function in App.java, a GUI will pop up. Select floors on the GUI to simulate floor requests from people waiting both outside the elevator and inside the elevator (this will handle both types of these requests).
 
 ## Elevator Behavior Assumptions
